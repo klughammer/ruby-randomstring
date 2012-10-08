@@ -6,5 +6,5 @@ Gem::Specification.new do |s|
   s.authors     = ["Elias Klughammer"]
   s.email       = 'elias@klughammer.com'
   s.files       = ["lib/randomstring.rb"]
-  s.homepage    = 'https://www.github.org/klughammer/ruby-randomstring'
+  s.homepage    = 'https://github.com/klughammer/ruby-randomstring'
 end
