@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'randomstring'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.summary     = "Gem for generating random strings"
   s.description = "Gem for generating random strings"
   s.authors     = ["Elias Klughammer"]
