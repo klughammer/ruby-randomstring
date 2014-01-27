@@ -16,6 +16,12 @@ Randomstring.generate
 
 Randomstring.generate(7)
 # >> "xqm5wXX"
+
+Randomstring.generate_alphanumeric_lower
+# >> "4vhp56ijj5lwfd73df1mw07b9llfw783"
+
+Randomstring.generate_custom(8, ['A'..'C'])
+# >> "BBABAAAB"
 ```
 
 ## LICENSE
